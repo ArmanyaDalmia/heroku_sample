@@ -1,1 +1,1 @@
-export DATABASE_URL='database.db'
+export DATABASE_URL='postgres://ckupsogapezbtm:e0d7c43c35fd6aa594c9b49e7b7ba58fde1d6e6b1d140e1a17ca26d8495383b4@ec2-107-22-7-9.compute-1.amazonaws.com:5432/db4t9vv50s57hv'
