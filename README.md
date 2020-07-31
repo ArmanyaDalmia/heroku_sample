@@ -1,2 +1,2 @@
 # Heroku Flask App
- Flask app with sqlite backend deployed on heroku
+ Flask API with Sqlite backend deployed on Heroku
